@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Biển Đôngs Turnier</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="tournamentNews">Thông tin giải đấu</string>
+    <string name="teams">Các đội bóng</string>
+    <string name="groups">Chia bảng</string>
+    <string name="result">Kết quả</string>
+    <string name="sponsor">Nhà tài trợ</string>
+    <string name="imprint">Tác giả</string>
+    <string name="groupA">Bảng A</string>
+    <string name="groupB">Bảng B</string>
+    <string name="groupC">Bảng C</string>
+    <string name="groupD">Bảng D</string>
+    <string name="finalMatch">Chung kết</string>
+    <string name="thirdPlace">Tranh ba tư</string>
+    <string name="semiFinal">Bán kết</string>
+    <string name="quarterFinal">Tứ kết</string>
+    <string name="winnerSemiFinal1">Đội thắng bán kết 1</string>
+    <string name="winnerSemiFinal2">Đội thắng bán kết 2</string>
+    <string name="loserSemiFinal1">Đội thua bán kết 1</string>
+    <string name="loserSemiFinal2">Đội thua bán kết 2</string>
+    <string name="winnerQuarterFinal1">Đội thắng tứ kết 1</string>
+    <string name="winnerQuarterFinal2">Đội thắng tứ kết 2</string>
+    <string name="winnerQuarterFinal3">Đội thắng tứ kết 3</string>
+    <string name="winnerQuarterFinal4">Đội thắng tứ kết 4</string>
+    <string name="groupA1">Nhất bảng A</string>
+    <string name="groupA2">Nhì bảng A</string>
+    <string name="groupB1">Nhất bảng B</string>
+    <string name="groupB2">Nhì bảng B</string>
+    <string name="groupC1">Nhất bảng C</string>
+    <string name="groupC2">Nhì bảng C</string>
+    <string name="groupD1">Nhất bảng D</string>
+    <string name="groupD2">Nhì bảng D</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tournament">Tournament</string>
+    <string name="teamInfos">Thông tin</string>
+    <string name="teamPlayers">Đội hình</string>
+    <string name="teamComments">Bình luận</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="news">Thông báo mới</string>
+    <string name="pics">Hình ảnh</string>
+    <string name="program">Chương trình</string>
+    <string name="rules">Luật chơi</string>
+    <string name="title_activity_teams">TeamsActivity</string>
+
+</resources>

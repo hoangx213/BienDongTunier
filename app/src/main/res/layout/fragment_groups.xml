@@ -1,0 +1,169 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/groupA" />
+
+
+        <Button
+            android:id="@+id/groupA1Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Team A1" />
+
+
+        <Button
+            android:id="@+id/groupA2Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team A2" />
+
+        <Button
+            android:id="@+id/groupA3Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team A3" />
+
+        <Button
+            android:id="@+id/groupA4Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team A4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/groupB" />
+
+        <Button
+            android:id="@+id/groupB1Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team B1" />
+
+        <Button
+            android:id="@+id/groupB2Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team B2" />
+
+        <Button
+            android:id="@+id/groupB3Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team B3" />
+
+        <Button
+            android:id="@+id/groupB4Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team B4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/groupC" />
+
+        <Button
+            android:id="@+id/groupC1Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team C1" />
+
+        <Button
+            android:id="@+id/groupC2Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team C2" />
+
+        <Button
+            android:id="@+id/groupC3Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team C3" />
+
+        <Button
+            android:id="@+id/groupC4Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team C4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/groupD" />
+
+        <Button
+            android:id="@+id/groupD1Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team D1" />
+
+        <Button
+            android:id="@+id/groupD2Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team D2" />
+
+        <Button
+            android:id="@+id/groupD3Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team D3" />
+
+        <Button
+            android:id="@+id/groupD4Button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:text="Team D4" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
